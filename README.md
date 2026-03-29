@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @lipykahh
-- 👀 I’m interested in ... phtography
-- 🌱 I’m currently learning ... cloud computing
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... dont
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... i like coffee 
+- 👋 Hi there , I’m @Lipykahh
+- 👀 I’m interested in photography , Treking
+- 🌱 I’m currently learning  SDE
+- 😄 Pronouns: she/her
+- ⚡ Fun fact:  likes coffee 
 
 <!---
 lipykahh/lipykahh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
